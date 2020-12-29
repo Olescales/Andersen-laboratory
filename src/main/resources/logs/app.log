@@ -1,0 +1,88 @@
+2020-12-29 00:18:42,234 [main] DEBUG lab.andersen.katokoleg.TreeMapTaskTask - Debug log message
+2020-12-29 00:18:42,238 [main] INFO  lab.andersen.katokoleg.TreeMapTaskTask - Info log message
+2020-12-29 00:18:42,238 [main] ERROR lab.andersen.katokoleg.TreeMapTaskTask - Error log message
+2020-12-29 00:19:37,070 [main] DEBUG lab.andersen.katokoleg.TreeMapTaskTask - Debug log message
+2020-12-29 00:19:37,145 [main] INFO  lab.andersen.katokoleg.TreeMapTaskTask - Info log message
+2020-12-29 00:19:37,145 [main] ERROR lab.andersen.katokoleg.TreeMapTaskTask - Error log message
+2020-12-29 09:57:19,157 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson115
+2020-12-29 09:57:19,157 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson225
+2020-12-29 09:57:19,157 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson333
+2020-12-29 09:57:19,157 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson477
+2020-12-29 09:57:19,157 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson54
+2020-12-29 09:57:19,157 [main] DEBUG lab.andersen.katokoleg.datastructures.TreeMapebug log message
+2020-12-29 09:57:19,157 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapnfo log message
+2020-12-29 09:57:19,157 [main] ERROR lab.andersen.katokoleg.datastructures.TreeMaprror log message
+2020-12-29 10:04:52,767 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson115
+2020-12-29 10:04:52,767 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson225
+2020-12-29 10:04:52,767 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson333
+2020-12-29 10:04:52,767 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson477
+2020-12-29 10:04:52,767 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson54
+2020-12-29 10:05:43,898 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson1 15
+2020-12-29 10:05:43,898 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson2 25
+2020-12-29 10:05:43,898 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson3 33
+2020-12-29 10:05:43,898 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson4 77
+2020-12-29 10:05:43,898 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaperson5 4
+2020-12-29 10:07:46,829 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@233795b6 4
+2020-12-29 10:07:46,829 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4e08711f 15
+2020-12-29 10:07:46,829 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@bcec361 25
+2020-12-29 10:07:46,829 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@26794848 33
+2020-12-29 10:07:46,829 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@302552ec 77
+2020-12-29 10:22:00,971 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@233795b6 4
+2020-12-29 10:22:00,971 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4e08711f 15
+2020-12-29 10:22:00,971 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@bcec361 25
+2020-12-29 10:22:00,971 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@26794848 33
+2020-12-29 10:22:00,971 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@302552ec 77
+2020-12-29 10:22:49,327 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@229f66ed 4
+2020-12-29 10:22:49,327 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@3857f613 15
+2020-12-29 10:22:49,327 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@198b6731 25
+2020-12-29 10:22:49,327 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@7c6908d7 33
+2020-12-29 10:22:49,327 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@3c9754d8 77
+2020-12-29 10:24:36,429 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@233795b6 4
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4e08711f 15
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@bcec361 25
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@26794848 33
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@302552ec 77
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapelingerPetr
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaAlisa
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapatokOleg
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaposikovIvan
+2020-12-29 10:24:36,444 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapetrikSergey
+2020-12-29 10:25:44,408 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@f5958c9 4
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4b2bac3f 15
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4e08711f 25
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@bcec361 33
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@26794848 77
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapelingerPetr
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaAlisa
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaVeronika
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapatokOleg
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaposikovIvan
+2020-12-29 10:25:44,424 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapetrikSergey
+2020-12-29 10:34:40,058 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@233795b6 4
+2020-12-29 10:34:40,062 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4e08711f 15
+2020-12-29 10:34:40,063 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@bcec361 25
+2020-12-29 10:34:40,063 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@26794848 33
+2020-12-29 10:34:40,063 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@302552ec 77
+2020-12-29 10:34:40,068 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapelingerPetr
+2020-12-29 10:34:40,068 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaAlisa
+2020-12-29 10:34:40,068 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaVeronika
+2020-12-29 10:34:40,068 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapatokOleg
+2020-12-29 10:34:40,069 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaposikovIvan
+2020-12-29 10:34:40,069 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapetrikSergey
+2020-12-29 10:46:31,767 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapTaskTask=TreeMapTask=-
+2020-12-29 10:46:31,771 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapses black-red tree for storing elements
+2020-12-29 10:46:31,772 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapuaranteed access O(n)
+2020-12-29 10:46:31,772 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaptore elements in sorted order using natural order
+2020-12-29 10:46:31,774 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4b2bac3f 4
+2020-12-29 10:46:31,775 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@4e08711f 15
+2020-12-29 10:46:31,775 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@bcec361 25
+2020-12-29 10:46:31,775 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@26794848 33
+2020-12-29 10:46:31,775 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapab.andersen.katokoleg.datastructures.Person@302552ec 77
+2020-12-29 10:46:31,776 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapr Store elements in sorted order using comparator
+2020-12-29 10:46:31,780 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapelingerPetr
+2020-12-29 10:46:31,780 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaAlisa
+2020-12-29 10:46:31,781 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapvanovaVeronika
+2020-12-29 10:46:31,781 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapatokOleg
+2020-12-29 10:46:31,781 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMaposikovIvan
+2020-12-29 10:46:31,781 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapetrikSergey
+2020-12-29 10:46:31,782 [main] INFO  lab.andersen.katokoleg.datastructures.TreeMapot thread-safe
