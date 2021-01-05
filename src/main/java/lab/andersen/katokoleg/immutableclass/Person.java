@@ -1,7 +1,7 @@
 package lab.andersen.katokoleg.immutableclass;
 
 import java.time.LocalDate;
-import java.util.Collections;
+import java.util.ArrayList;
 import java.util.List;
 
 public final class Person {
@@ -15,11 +15,15 @@ public final class Person {
         this.name = name;
         this.surname = surname;
         this.birthDate = birthDate;
-        this.persons = persons;
+        List<Person> newPersons = new ArrayList<>();
+        persons.forEach(p -> newPersons.add(p));
+        this.persons = newPersons;
     }
 
     public List<Person> getPersons() {
-        return Collections.unmodifiableList(persons);
+        List<Person> newPersons = new ArrayList<>();
+        persons.forEach(p -> newPersons.add(p));
+        return newPersons;
     }
 
     public String getName() {
