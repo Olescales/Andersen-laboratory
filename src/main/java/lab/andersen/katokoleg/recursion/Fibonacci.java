@@ -1,18 +1,24 @@
 package lab.andersen.katokoleg.recursion;
 
+/**
+ * @author Katok Oleg on 11.01.2021
+ */
 public class Fibonacci {
 
-    public static int getFibonacciNumber (int depth) {
-        if (depth <= 0) {
+    /**
+     * @param position - order number of fibonacci digit
+     * @return fibonacci number on definite position
+     */
+    public int getFibonacciNumber (int position) {
+        if (position <= 0) {
             throw new IllegalArgumentException();
         }
-
-        if (depth == 1) {
+        if (position == 1) {
             return 0;
-        } else if (depth == 2) {
+        } else if (position == 2) {
             return 1;
         } else {
-            return getFibonacciNumber(depth - 1) + getFibonacciNumber(depth - 2);
+            return getFibonacciNumber(position - 1) + getFibonacciNumber(position - 2);
         }
     }
 }

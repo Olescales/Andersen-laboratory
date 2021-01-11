@@ -25,7 +25,8 @@ public class BinaryTreeTest {
 
     @Test
     public void findBinaryTreeDepth() {
-        int actualDepth = BinaryTree.findBinaryTreeDepth(treeNode);
+        BinaryTree binaryTree = new BinaryTree();
+        int actualDepth = binaryTree.findBinaryTreeDepth(treeNode);
         Assert.assertEquals(5, actualDepth);
 
     }

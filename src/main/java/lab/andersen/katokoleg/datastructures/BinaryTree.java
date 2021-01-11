@@ -1,8 +1,15 @@
 package lab.andersen.katokoleg.datastructures;
 
+/**
+ * @author Katok Oleg on 11.01.2021
+ */
 public class BinaryTree {
 
-    public static int findBinaryTreeDepth(TreeNode startNode) {
+    /**
+     * @param startNode - vertex of the tree
+     * @return integer value - tree's depth
+     */
+    public int findBinaryTreeDepth(TreeNode startNode) {
         if (startNode == null) {
             return 1;
         } else {

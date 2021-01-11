@@ -3,6 +3,8 @@ package lab.andersen.katokoleg.datastructures;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.lang.management.GarbageCollectorMXBean;
+
 public class GraphTest {
 
     @Test
@@ -14,7 +16,8 @@ public class GraphTest {
         graph[2][5] = 1;
         graph[3][4] = 1;
         graph[5][6] = 1;
-        boolean actual = Graph.isGraphTree(graph);
+        Graph graph1 = new Graph();
+        boolean actual = graph1.isGraphTree(graph);
         Assert.assertTrue(actual);
     }
 
@@ -28,7 +31,8 @@ public class GraphTest {
         graph[2][3] = 1;
         graph[3][4] = 1;
         graph[5][6] = 1;
-        boolean actual = Graph.isGraphTree(graph);
+        Graph graph1 = new Graph();
+        boolean actual = graph1.isGraphTree(graph);
         Assert.assertFalse(actual);
     }
 }

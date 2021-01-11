@@ -1,8 +1,15 @@
 package lab.andersen.katokoleg.datastructures;
 
+/**
+ * @author Katok Oleg on 11.01.2021
+ */
 public class Array {
 
-    public static int getSecondMinElement(int[] source) {
+    /**
+     * @param source - unsorted array with numbers
+     * @return second descending number
+     */
+    public int getSecondMinElement(int[] source) {
         if (source.length <= 1) {
             throw new IllegalArgumentException("Not enough elements in array for check");
         }
@@ -19,7 +26,12 @@ public class Array {
         return secondMin;
     }
 
-    public static int[] merge(int[] array1, int[] array2) {
+    /**
+     * @param array1 - sorted array
+     * @param array2 - sorted array
+     * @return resulting sorted array
+     */
+    public int[] merge(int[] array1, int[] array2) {
         int[] result = new int[array1.length + array2.length];
         int i1 = 0;
         int i2 = 0;

@@ -1,6 +1,5 @@
 package lab.andersen.katokoleg.stream;
 
-import java.util.function.ToIntFunction;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -10,11 +9,11 @@ public class StreamTask {
         return stringStream.map(Integer::parseInt).reduce(0, (subtotal, integer) -> subtotal + integer);
     }
 
-    public int second (Stream<String> stringStream) {
-     return (int)stringStream.map(Integer::parseInt).collect(Collectors.summarizingInt(Integer::intValue)).getSum();
+    public int second(Stream<String> stringStream) {
+        return stringStream.collect(Collectors.summingInt(Integer::parseInt));
     }
 
-    public int third (Stream<String> stringStream) {
+    public int third(Stream<String> stringStream) {
         return stringStream.mapToInt(Integer::parseInt).sum();
     }
 }
