@@ -1,8 +1,17 @@
 package lab.andersen.katokoleg.datastructures;
 
+/**
+ * @author Katok Oleg on 11.01.2021
+ */
 public class Graph {
 
-    public static boolean isGraphTree(int[][] graph) {
+    /**
+     * Determines whether the graph is a tree
+     *
+     * @param graph matrix dependencies between graph vertexes
+     * @return true if the graph is a tree
+     */
+    public boolean isGraphTree(int[][] graph) {
         boolean[] visitedVertexes = new boolean[graph.length];
         visitedVertexes[0] = true;
         for (int i = 0; i < graph.length; i++) {

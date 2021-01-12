@@ -9,25 +9,29 @@ public class FibonacciTest {
 
     @Test (expected = IllegalArgumentException.class)
     public void getFibonacciNumberZeroThrowsException() {
-        int expected = Fibonacci.getFibonacciNumber(0);
+        Fibonacci fibonacci = new Fibonacci();
+        int expected = fibonacci.getFibonacciNumber(0);
     }
 
 
     @Test
     public void getFibonacciNumberOne() {
-        int expected = Fibonacci.getFibonacciNumber(1);
+        Fibonacci fibonacci = new Fibonacci();
+        int expected = fibonacci.getFibonacciNumber(1);
         Assert.assertEquals(0, expected);
     }
 
     @Test
     public void getFibonacciNumberSeven() {
-        int expected = Fibonacci.getFibonacciNumber(7);
+        Fibonacci fibonacci = new Fibonacci();
+        int expected = fibonacci.getFibonacciNumber(7);
         Assert.assertEquals(8, expected);
     }
 
     @Test
     public void getFibonacciNumberTwenty() {
-        int expected = Fibonacci.getFibonacciNumber(20);
+        Fibonacci fibonacci = new Fibonacci();
+        int expected = fibonacci.getFibonacciNumber(20);
         Assert.assertEquals(4181, expected);
     }
 }
